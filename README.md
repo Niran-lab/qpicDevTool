@@ -5,3 +5,11 @@ This template should help get you started developing with Vue 3 and TypeScript i
 ## Recommended IDE Setup
 
 - [VS Code](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+
+## Fonts & Acknowledgments
+
+This project uses the following open-source font:
+
+* **DotGothic16**
+  * Author: Fontworks Inc. / Google Fonts
+  * License: [SIL Open Font License, Version 1.1](https://scripts.sil.org/OFL)

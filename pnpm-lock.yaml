@@ -17,6 +17,9 @@ importers:
       vue:
         specifier: ^3.5.13
         version: 3.5.42(typescript@5.6.3)
+      xp.css:
+        specifier: ^0.2.6
+        version: 0.2.6
     devDependencies:
       '@tauri-apps/cli':
         specifier: ^2
@@ -650,6 +653,9 @@ packages:
       typescript:
         optional: true
 
+  xp.css@0.2.6:
+    resolution: {integrity: sha512-v0qUB4wOvyXIMLNid5bIpm+0n5aL4i8wE5dqJH8LNVxE04PxUUxjwf2rNzengegUIK03XC4vbfLVCPAfMLtuqA==}
+
 snapshots:
 
   '@babel/helper-string-parser@7.29.7': {}
@@ -1116,3 +1122,5 @@ snapshots:
       '@vue/shared': 3.5.42
     optionalDependencies:
       typescript: 5.6.3
+
+  xp.css@0.2.6: {}
